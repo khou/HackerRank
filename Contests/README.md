@@ -1,4 +1,3 @@
-Java Domain
-Problems test Java knowledge.
+Random Contest Problems
 
 Link to problem statements within each file.
